@@ -15,8 +15,12 @@
         android:layout_height="wrap_content"
         android:text="Next"/>
 
-    <!--<TextView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:text="Hello World!" />-->
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnNext"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="Hi All"/>
 </RelativeLayout>
