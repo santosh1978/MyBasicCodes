@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sqlite</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnQuery">Query</string>
+</resources>
